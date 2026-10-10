@@ -1,0 +1,11 @@
+{
+    "python.defaultInterpreterPath": "${workspaceFolder}/.venv/Scripts/python.exe",
+    "python.testing.pytestEnabled": true,
+    "python.testing.pytestArgs": [
+        "tests",
+        "--headed",
+        "--slowmo",
+        "500"
+    ],
+    "python.testing.unittestEnabled": false
+}
